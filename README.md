@@ -40,11 +40,11 @@ I’m a **Software Engineer** passionate about building in **Blockchain, AI, Web
 ---
 
 ## 🚀 **What to Expect Here**  
-🔹 **Blockchain Projects**: Solana, Ethereum, Polkadot, Smart Contracts, Audits, DeFi 
-🔹 **AI Projects**: LLMs, RAG models, AI-powered Web3 solutions  
-🔹 **Full-Stack Web3 and AI Applications**: Test projects, AI Agents  
-🔹 **Open-Source Contributions**: Research, documentation, and tools 
-🔹 **Notes and Articles**: Documentation and notes on things I learn
+🔹 **Blockchain Projects**: Solana, Ethereum, Polkadot, Smart Contracts, Audits, DeFi. 
+🔹 **AI Projects**: LLMs, RAG models, AI-powered Web3 solutions.  
+🔹 **Full-Stack Web3 and AI Applications**: Test projects, AI Agents.  
+🔹 **Open-Source Contributions**: Research, documentation, and tools. 
+🔹 **Notes and Articles**: Documentation and notes on things I learn.
 
 
 ---
