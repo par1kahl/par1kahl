@@ -18,7 +18,7 @@ I’m a **Software Engineer** passionate about building in **Blockchain, AI, Web
 
 ## 🏆 **Notable Achievements**  
 
-🔹 **AccelChain - Lead Blockchain Engineer & AI Engineer (2023 - Present)**  
+🔹 **[AccelChain](accelchain.xyz) - Lead Blockchain Engineer & AI Engineer (2023 - Present)**  
 - Built AI-driven smart contract solutions and developer tools.  
 - Spearheaded **AI-powered audits & security testing** for blockchain contracts.  
 - Hosted Web3 & AI workshops, mentoring **2,000+ developers**.
