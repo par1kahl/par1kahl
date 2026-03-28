@@ -11,13 +11,15 @@
 
 </div>
 
-<div align="center">
-
-`About Me` · `Currently Building` · `Career Path` · `Tech Stack` · `Key Projects` · `Stats` · `Connect`
-
-[about me](#-about-me) · [currently building](#-currently-building) · [career path](#-career-path) · [tech stack](#-tech-stack) · [key projects & impact](#-key-projects--impact) · [stats](#-stats) · [let's connect](#-lets-connect)
-
-</div>
+<p align="center">
+  <a href="#-about-me">About Me</a> ·
+  <a href="#-currently-building">Currently Building</a> ·
+  <a href="#-career-path">Career Path</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
+  <a href="#-key-projects--impact">Key Projects</a> ·
+  <a href="#-stats">Stats</a> ·
+  <a href="#-lets-connect">Connect</a>
+</p>
 
 ---
 
@@ -31,7 +33,7 @@ Purdue CS grad, 6+ years shipping production AI, based remote. I care about AI t
 
 ### > Currently Building
 
-<details open>
+<details>
 <summary><b>Phavella</b> - AI-powered operating systems for businesses</summary>
 <br>
 
@@ -52,7 +54,7 @@ I partner directly with B2B clients, startups, and agencies to integrate these s
 
 </details>
 
-<details open>
+<details>
 <summary><b>Kronus</b> - personal AI agent orchestration framework</summary>
 <br>
 
@@ -76,30 +78,14 @@ Built for developers who want AI tooling that fits into their actual workflow in
 
 ### > Career Path
 
-```
-2026+    Phavella          Founder / AI Architect
-         Building autonomous AI operating systems for businesses.
-
-2025     CraftifAI         PM + Senior AI Engineer
-         AI agent workflows for embedded and edge platforms.
-         Model orchestration meets real hardware constraints.
-
-2025     CoreThink AI      Founding Senior AI Engineer
-         Reasoning models and benchmark optimization.
-         Boosted LLM accuracy 15-25% on SWE-Bench, BFCL, TAU.
-
-2023     AccelChain        AI Engineer / Researcher
-         AI systems for smart contract auditing and testing.
-         Won grants from Solana and Polkadot.
-
-2019     Sidechain Labs    Freelance Engineer
-         Backend systems, APIs, open-source AI tooling.
-         20+ client solutions delivered.
-
-2018     Purdue (CS)       Graduated
-         Bachelor of Science in Computer Science.
-         Indiana, USA.
-```
+<table>
+<tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Founder / AI Architect</td><td>Building autonomous AI operating systems for businesses.</td></tr>
+<tr><td><b>2025</b></td><td><b>CraftifAI</b></td><td>PM + Senior AI Engineer</td><td>AI agent workflows for embedded and edge platforms. Model orchestration meets real hardware constraints.</td></tr>
+<tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Boosted LLM accuracy 15-25% on SWE-Bench, BFCL, TAU.</td></tr>
+<tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI systems for smart contract auditing and testing. Won grants from Solana and Polkadot.</td></tr>
+<tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Freelance Engineer</td><td>Backend systems, APIs, open-source AI tooling. 20+ client solutions delivered.</td></tr>
+<tr><td><b>2018</b></td><td><b>Purdue (CS)</b></td><td>Graduated</td><td>Bachelor of Science in Computer Science. Indiana, USA.</td></tr>
+</table>
 
 ---
 
@@ -207,7 +193,7 @@ Created AI systems to generate, test, and audit smart contracts via natural lang
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=par1kahl&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=par1kahl&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=par1kahl&theme=default&hide_border=true)](https://git.io/streak-stats)
 
