@@ -193,8 +193,6 @@ Created AI systems to generate, test, and audit smart contracts via natural lang
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=par1kahl&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=par1kahl&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=par1kahl&theme=github-light&hide_border=true&area=true&color=1B3A5C&line=556B2F&point=8B6848)](https://github.com/ashutosh00710/github-readme-activity-graph)
