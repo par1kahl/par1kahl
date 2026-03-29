@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=founder+%40+phavella;creator+of+kronus;senior+AI+engineer;purdue+CS+'18;building+AI+that+runs+your+business)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
-[![X](https://img.shields.io/badge/X-8B6848?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
-[![Email](https://img.shields.io/badge/Email-556B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 
 </div>
 
@@ -214,9 +214,9 @@ Building something with AI agents? Want to collaborate? Just want to talk about 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
-[![X](https://img.shields.io/badge/X-8B6848?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
-[![Email](https://img.shields.io/badge/Email-556B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 
 </div>
 
