@@ -4,7 +4,7 @@
 
 <img src="assets/hero-typing.svg" alt="founder @ phavella | creator of kronus | senior AI engineer" width="480" />
 
-<br>
+<br><br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
