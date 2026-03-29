@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="600" height="50">
+  <defs>
+    <linearGradient id="pG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C3E6B"/>
+      <stop offset="50%" stop-color="#4A8A7A"/>
+      <stop offset="100%" stop-color="#9B7D55"/>
+    </linearGradient>
+    <radialGradient id="kG" cx="290" cy="286" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#030104"/>
+      <stop offset="45%" stop-color="#993D00"/>
+      <stop offset="100%" stop-color="#B34700" stop-opacity="0.5"/>
+    </radialGradient>
+
+    <clipPath id="c1"><rect y="0" height="50"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;0.03;0.16;0.23;0.25;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect y="0" height="50"><animate attributeName="width" values="0;0;330;330;0;0" keyTimes="0;0.28;0.41;0.48;0.50;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect y="0" height="50"><animate attributeName="width" values="0;0;280;280;0;0" keyTimes="0;0.53;0.66;0.73;0.75;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect y="0" height="50"><animate attributeName="width" values="0;0;450;450;0" keyTimes="0;0.78;0.91;0.98;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <style>
+    text{font-family:'Fira Code','SF Mono','Consolas',monospace;font-size:19px}
+    @keyframes v1{0%,2%{opacity:0}3%{opacity:1}24%{opacity:1}25%{opacity:0}100%{opacity:0}}
+    @keyframes v2{0%,27%{opacity:0}28%{opacity:1}49%{opacity:1}50%{opacity:0}100%{opacity:0}}
+    @keyframes v3{0%,52%{opacity:0}53%{opacity:1}74%{opacity:1}75%{opacity:0}100%{opacity:0}}
+    @keyframes v4{0%,77%{opacity:0}78%{opacity:1}99%{opacity:1}100%{opacity:0}}
+    .v1{animation:v1 16s infinite}
+    .v2{animation:v2 16s infinite}
+    .v3{animation:v3 16s infinite}
+    .v4{animation:v4 16s infinite}
+  </style>
+
+  <!-- 1: founder @ phavella (centered at x=300) -->
+  <!-- logo at left of text block -->
+  <g class="v1" transform="translate(128,6) scale(0.073)">
+    <path d="M205 16C310-2 420 30 476 130C510 220 508 350 450 430C390 502 270 510 170 476C70 440 10 330 16 225C22 120 100 34 205 16Z" fill="url(#pG)"/>
+    <line x1="200" y1="100" x2="280" y2="420" stroke="#F8F7F4" stroke-width="40" stroke-linecap="round"/>
+    <path d="M220 170C270 100 400 140 390 260C382 350 290 380 270 330" stroke="#F8F7F4" stroke-width="40" stroke-linecap="round" fill="none"/>
+  </g>
+  <g clip-path="url(#c1)">
+    <text x="170" y="33" fill="#1B3A5C" class="v1">founder @ phavella</text>
+  </g>
+
+  <!-- 2: creator of kronus -->
+  <g class="v2" transform="translate(126,4) scale(0.075)">
+    <rect x="30" y="26" width="520" height="520" rx="8" fill="#f8f7f5" transform="rotate(3,290,286)"/>
+    <rect x="30" y="26" width="520" height="520" rx="8" fill="none" stroke="#e0ded9" stroke-width="0.6" transform="rotate(3,290,286)"/>
+    <g transform="translate(34,30)">
+      <path fill="url(#kG)" d="M429.983,349.78V164.817l20.07-11.563l-7.824-13.581l-19.889,11.457L263.844,59.894V0H248.17v59.292L91.386,149.545l-20.265-11.984l-7.979,13.491l17.844,10.551v186.182l-50.714,29.216l7.824,13.581l51.055-29.413l159.019,91.539v22.72h15.673v-23.322l156.269-89.955l52.26,30.904l7.978-13.491L429.983,349.78z"/>
+    </g>
+  </g>
+  <g clip-path="url(#c2)">
+    <text x="170" y="33" fill="#8B6848" class="v2">creator of kronus</text>
+  </g>
+
+  <!-- 3: senior AI engineer -->
+  <g clip-path="url(#c3)">
+    <text x="170" y="33" fill="#556B2F" class="v3">senior AI engineer</text>
+  </g>
+
+  <!-- 4: building AI that runs your business -->
+  <g clip-path="url(#c4)">
+    <text x="85" y="33" fill="#1B3A5C" class="v4">building AI that runs your business</text>
+  </g>
+</svg>
