@@ -1,134 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 55" width="620" height="55">
-  <style>
-    @keyframes type1 {
-      0% { width: 0; }
-      3% { width: 0; }
-      15% { width: 280px; }
-      23% { width: 280px; }
-      25% { width: 0; }
-      100% { width: 0; }
-    }
-    @keyframes type2 {
-      0%, 25% { width: 0; }
-      28% { width: 0; }
-      40% { width: 255px; }
-      48% { width: 255px; }
-      50% { width: 0; }
-      100% { width: 0; }
-    }
-    @keyframes type3 {
-      0%, 50% { width: 0; }
-      53% { width: 0; }
-      65% { width: 265px; }
-      73% { width: 265px; }
-      75% { width: 0; }
-      100% { width: 0; }
-    }
-    @keyframes type4 {
-      0%, 75% { width: 0; }
-      78% { width: 0; }
-      92% { width: 440px; }
-      98% { width: 440px; }
-      100% { width: 0; }
-    }
-    @keyframes logo1 {
-      0%, 2% { opacity: 0; }
-      3% { opacity: 1; }
-      24% { opacity: 1; }
-      25% { opacity: 0; }
-      100% { opacity: 0; }
-    }
-    @keyframes logo2 {
-      0%, 27% { opacity: 0; }
-      28% { opacity: 1; }
-      49% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 0; }
-    }
-    @keyframes cursor {
-      0%, 49% { opacity: 1; }
-      50%, 100% { opacity: 0; }
-    }
-    .t1 { animation: type1 16s infinite; }
-    .t2 { animation: type2 16s infinite; }
-    .t3 { animation: type3 16s infinite; }
-    .t4 { animation: type4 16s infinite; }
-    .l1 { animation: logo1 16s infinite; }
-    .l2 { animation: logo2 16s infinite; }
-    .clip { overflow: hidden; white-space: nowrap; display: inline-block; height: 40px; }
-    .blink { animation: cursor 0.8s step-end infinite; }
-    text { font-family: 'Fira Code', 'Consolas', 'SF Mono', monospace; font-size: 19px; dominant-baseline: central; }
-  </style>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="600" height="50">
   <defs>
-    <!-- Phavella logo gradient -->
-    <linearGradient id="pGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Phavella gradient -->
+    <linearGradient id="pG" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#2C3E6B"/>
       <stop offset="50%" stop-color="#4A8A7A"/>
       <stop offset="100%" stop-color="#9B7D55"/>
     </linearGradient>
-    <!-- Kronus logo gradient -->
-    <radialGradient id="kGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#030104"/>
-      <stop offset="45%" stop-color="#993D00"/>
-      <stop offset="100%" stop-color="#B34700" stop-opacity="0.5"/>
+    <!-- Kronus gradient -->
+    <radialGradient id="kG" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1a0a00"/>
+      <stop offset="60%" stop-color="#993D00"/>
+      <stop offset="100%" stop-color="#B34700"/>
     </radialGradient>
+
+    <!-- Typewriter clips -->
+    <clipPath id="c1"><rect x="0" y="0" width="600" height="50"><animate attributeName="width" values="0;0;340;340;0;0;0;0;0;0;0;0;0" keyTimes="0;0.02;0.15;0.23;0.25;0.26;0.5;0.51;0.75;0.76;0.95;0.98;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" width="600" height="50"><animate attributeName="width" values="0;0;0;0;0;0;320;320;0;0;0;0;0" keyTimes="0;0.02;0.15;0.23;0.25;0.27;0.40;0.48;0.50;0.51;0.75;0.98;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" width="600" height="50"><animate attributeName="width" values="0;0;0;0;0;0;0;0;0;0;280;280;0" keyTimes="0;0.02;0.15;0.23;0.25;0.27;0.40;0.48;0.50;0.52;0.65;0.73;0.75" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" width="600" height="50"><animate attributeName="width" values="0;0;430;430;0" keyTimes="0;0.77;0.92;0.98;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
+  <style>
+    text { font-family: 'Fira Code','SF Mono','Consolas',monospace; font-size: 19px; }
+    .blink { animation: bk 0.8s step-end infinite; }
+    @keyframes bk { 0%,49%{opacity:1}50%,100%{opacity:0} }
+    @keyframes f1 { 0%,2%{opacity:0}3%{opacity:1}24%{opacity:1}25%{opacity:0}100%{opacity:0} }
+    @keyframes f2 { 0%,26%{opacity:0}27%{opacity:1}49%{opacity:1}50%{opacity:0}100%{opacity:0} }
+    @keyframes f3 { 0%,51%{opacity:0}52%{opacity:1}74%{opacity:1}75%{opacity:0}100%{opacity:0} }
+    @keyframes f4 { 0%,76%{opacity:0}77%{opacity:1}99%{opacity:1}100%{opacity:0} }
+    .s1 { animation: f1 16s infinite; }
+    .s2 { animation: f2 16s infinite; }
+    .s3 { animation: f3 16s infinite; }
+    .s4 { animation: f4 16s infinite; }
+  </style>
+
   <!-- Line 1: founder @ phavella -->
-  <g class="l1">
-    <!-- Phavella blob icon -->
-    <g transform="translate(135, 6) scale(0.075)">
-      <path d="M205 16C310-2 420 30 476 130C510 220 508 350 450 430C390 502 270 510 170 476C70 440 10 330 16 225C22 120 100 34 205 16Z" fill="url(#pGrad)"/>
-      <line x1="176" y1="48" x2="304" y2="464" stroke="#F8F7F4" stroke-width="35" stroke-linecap="round" stroke-opacity="0.95"/>
-      <path d="M200 136C256 64 416 112 408 248C400 368 272 408 248 344" stroke="#F8F7F4" stroke-width="35" stroke-linecap="round" stroke-opacity="0.95" fill="none"/>
+  <g class="s1">
+    <!-- Phavella blob logo -->
+    <g transform="translate(148,7) scale(0.068)">
+      <path d="M205 16C310-2 420 30 476 130C510 220 508 350 450 430C390 502 270 510 170 476C70 440 10 330 16 225C22 120 100 34 205 16Z" fill="url(#pG)"/>
+      <line x1="200" y1="100" x2="280" y2="420" stroke="#F8F7F4" stroke-width="40" stroke-linecap="round"/>
+      <path d="M220 170C270 100 400 140 390 260C382 350 290 380 270 330" stroke="#F8F7F4" stroke-width="40" stroke-linecap="round" fill="none"/>
     </g>
   </g>
-  <foreignObject x="170" y="8" width="300" height="40">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="clip t1">
-      <svg xmlns="http://www.w3.org/2000/svg" width="280" height="40">
-        <text x="0" y="26" fill="#1B3A5C" style="font-family:'Fira Code',Consolas,monospace;font-size:19px">founder @ phavella</text>
-      </svg>
-    </div>
-  </foreignObject>
+  <g clip-path="url(#c1)">
+    <text x="190" y="33" fill="#1B3A5C" class="s1">founder @ phavella</text>
+  </g>
 
   <!-- Line 2: creator of kronus -->
-  <g class="l2">
-    <!-- Kronus tile icon -->
-    <g transform="translate(133, 4) scale(0.078)">
-      <rect x="10" y="8" width="520" height="520" rx="8" ry="8" fill="#f8f7f5" transform="rotate(3, 270, 270)"/>
-      <rect x="10" y="8" width="520" height="520" rx="8" ry="8" fill="none" stroke="#e0ded9" stroke-width="0.6" transform="rotate(3, 270, 270)"/>
-      <g transform="translate(14, 12) scale(0.9)">
-        <path fill="url(#kGrad)" d="M429.983,349.78V164.817l20.07-11.563l-7.824-13.581l-19.889,11.457L263.844,59.894V0H248.17v59.292L91.386,149.545l-20.265-11.984l-7.979,13.491l17.844,10.551v186.182l-50.714,29.216l7.824,13.581l51.055-29.413l159.019,91.539v22.72h15.673v-23.322l156.269-89.955l52.26,30.904l7.978-13.491L429.983,349.78z"/>
+  <g class="s2">
+    <!-- Kronus tile logo -->
+    <g transform="translate(148,5) scale(0.07)">
+      <rect x="15" y="12" width="500" height="500" rx="10" fill="#f8f7f5" transform="rotate(3,265,262)"/>
+      <rect x="15" y="12" width="500" height="500" rx="10" fill="none" stroke="#d0cec9" stroke-width="1" transform="rotate(3,265,262)"/>
+      <!-- Simplified kronus web hexagon pattern -->
+      <g transform="translate(80,70) scale(0.75)">
+        <polygon points="256,30 462,150 462,370 256,490 50,370 50,150" fill="none" stroke="url(#kG)" stroke-width="18"/>
+        <polygon points="256,120 370,190 370,330 256,400 142,330 142,190" fill="none" stroke="url(#kG)" stroke-width="14"/>
+        <polygon points="256,200 300,230 300,290 256,320 212,290 212,230" fill="none" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="256" y1="30" x2="256" y2="200" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="256" y1="320" x2="256" y2="490" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="50" y1="150" x2="212" y2="230" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="300" y1="290" x2="462" y2="370" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="462" y1="150" x2="300" y2="230" stroke="url(#kG)" stroke-width="10"/>
+        <line x1="212" y1="290" x2="50" y2="370" stroke="url(#kG)" stroke-width="10"/>
       </g>
     </g>
   </g>
-  <foreignObject x="170" y="8" width="280" height="40">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="clip t2">
-      <svg xmlns="http://www.w3.org/2000/svg" width="255" height="40">
-        <text x="0" y="26" fill="#8B6848" style="font-family:'Fira Code',Consolas,monospace;font-size:19px">creator of kronus</text>
-      </svg>
-    </div>
-  </foreignObject>
+  <g clip-path="url(#c2)">
+    <text x="190" y="33" fill="#8B6848" class="s2">creator of kronus</text>
+  </g>
 
   <!-- Line 3: senior AI engineer -->
-  <foreignObject x="170" y="8" width="300" height="40">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="clip t3">
-      <svg xmlns="http://www.w3.org/2000/svg" width="265" height="40">
-        <text x="0" y="26" fill="#556B2F" style="font-family:'Fira Code',Consolas,monospace;font-size:19px">senior AI engineer</text>
-      </svg>
-    </div>
-  </foreignObject>
+  <g clip-path="url(#c3)">
+    <text x="190" y="33" fill="#556B2F" class="s3">senior AI engineer</text>
+  </g>
 
   <!-- Line 4: building AI that runs your business -->
-  <foreignObject x="90" y="8" width="460" height="40">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="clip t4">
-      <svg xmlns="http://www.w3.org/2000/svg" width="440" height="40">
-        <text x="0" y="26" fill="#1B3A5C" style="font-family:'Fira Code',Consolas,monospace;font-size:19px">building AI that runs your business</text>
-      </svg>
-    </div>
-  </foreignObject>
+  <g clip-path="url(#c4)">
+    <text x="100" y="33" fill="#1B3A5C" class="s4">building AI that runs your business</text>
+  </g>
 
   <!-- Blinking cursor -->
-  <rect class="blink" x="310" y="15" width="2" height="25" rx="1" fill="#8B6848"/>
+  <rect class="blink" x="310" y="13" width="2" height="26" rx="1" fill="#8B6848"/>
 </svg>
