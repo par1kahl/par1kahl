@@ -2,15 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=par1kahl&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=founder+%40+phavella;creator+of+kronus;senior+AI+engineer;purdue+CS+'18;building+AI+that+runs+your+business)](https://git.io/typing-svg)
+<img src="assets/phavella-logo.svg" width="28" height="28" /> &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B6848&center=true&vCenter=true&width=500&lines=founder+%40+phavella;creator+of+kronus;senior+AI+engineer;building+AI+that+runs+your+business)](https://git.io/typing-svg) &nbsp; <img src="assets/kronus-logo.svg" width="28" height="28" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
-
-<marquee behavior="scroll" direction="left" scrollamount="4">
-<img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus
-</marquee>
 
 </div>
 
@@ -32,7 +28,7 @@
 
 I started out building smart contracts and blockchain tools. Somewhere along the way, AI agents got way more interesting and I never looked back. Now I build systems that run entire business functions on autopilot while founders focus on what actually matters.
 
-Purdue CS grad, 6+ years shipping production AI, based remote. I care about AI that works at 3am without paging anyone. Currently building Phavella and hacking on Kronus.
+6+ years shipping production AI, based remote. I care about AI that works at 3am without paging anyone. Currently building Phavella and hacking on Kronus.
 
 ---
 
@@ -89,7 +85,6 @@ Built for developers who want AI tooling that fits into their actual workflow in
 <tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Boosted LLM accuracy 15-25% on SWE-Bench, BFCL, TAU.</td></tr>
 <tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI systems for smart contract auditing and testing. Won grants from Solana and Polkadot.</td></tr>
 <tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Freelance Engineer</td><td>Backend systems, APIs, open-source AI tooling. 20+ client solutions delivered.</td></tr>
-<tr><td><b>2018</b></td><td><b>Purdue (CS)</b></td><td>Graduated</td><td>Bachelor of Science in Computer Science. Indiana, USA.</td></tr>
 </table>
 
 ---
