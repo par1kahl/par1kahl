@@ -5,11 +5,11 @@
       <stop offset="50%" stop-color="#4A8A7A"/>
       <stop offset="100%" stop-color="#9B7D55"/>
     </linearGradient>
-    <linearGradient id="kG" x1="0%" y1="0%" x2="100%" y2="100%">
+    <radialGradient id="kG" cx="50%" cy="49%" r="50%">
       <stop offset="0%" stop-color="#030104"/>
-      <stop offset="50%" stop-color="#993D00"/>
+      <stop offset="45%" stop-color="#993D00"/>
       <stop offset="100%" stop-color="#B34700"/>
-    </linearGradient>
+    </radialGradient>
 
     <clipPath id="c1"><rect y="0" height="45" width="0"><animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0;0.03;0.18;0.23;0.25;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="c2"><rect y="0" height="45" width="0"><animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0;0.28;0.43;0.48;0.50;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
@@ -29,45 +29,43 @@
     .v4{animation:v4 16s infinite}
   </style>
 
-  <!-- 1: [P] founder @ phavella -->
+  <!-- 1: [Phavella] founder @ phavella -->
   <g clip-path="url(#c1)">
-    <!-- Phavella blob -->
-    <g class="v1" transform="translate(108,4) scale(0.07)">
+    <g class="v1" transform="translate(108,4) scale(0.065)">
       <path d="M205 16C310-2 420 30 476 130C510 220 508 350 450 430C390 502 270 510 170 476C70 440 10 330 16 225C22 120 100 34 205 16Z" fill="url(#pG)"/>
       <line x1="200" y1="100" x2="280" y2="420" stroke="#F8F7F4" stroke-width="42" stroke-linecap="round"/>
       <path d="M220 170C270 100 400 140 390 260C382 350 290 380 270 330" stroke="#F8F7F4" stroke-width="42" stroke-linecap="round" fill="none"/>
     </g>
-    <text x="150" y="28" fill="#1B3A5C" class="v1">founder @ phavella</text>
+    <text x="148" y="28" fill="#1B3A5C" class="v1">founder @ phavella</text>
   </g>
 
-  <!-- 2: [K] creator of kronus -->
+  <!-- 2: [Kronus] creator of kronus -->
   <g clip-path="url(#c2)">
-    <!-- Kronus tile: white rounded rect + web lines -->
-    <g class="v2" transform="translate(107,3) scale(0.072)">
-      <rect x="20" y="15" width="500" height="500" rx="12" fill="#f8f7f5" transform="rotate(3,270,265)"/>
-      <rect x="20" y="15" width="500" height="500" rx="12" fill="none" stroke="#ccc" stroke-width="1.5" transform="rotate(3,270,265)"/>
-      <!-- Web structure: outer hex + inner hex + spokes -->
-      <g transform="translate(70,55) scale(0.72)" fill="none" stroke="url(#kG)" stroke-width="16" stroke-linecap="round">
-        <polygon points="256,40 450,155 450,365 256,480 62,365 62,155"/>
-        <polygon points="256,150 355,205 355,315 256,370 157,315 157,205"/>
-        <line x1="256" y1="40" x2="256" y2="150"/>
-        <line x1="256" y1="370" x2="256" y2="480"/>
-        <line x1="62" y1="155" x2="157" y2="205"/>
-        <line x1="355" y1="315" x2="450" y2="365"/>
-        <line x1="450" y1="155" x2="355" y2="205"/>
-        <line x1="157" y1="315" x2="62" y2="365"/>
+    <g class="v2" transform="translate(105,2) scale(0.068)">
+      <!-- Tilted tile -->
+      <rect x="30" y="26" width="520" height="520" rx="8" ry="8" fill="#f8f7f5" transform="rotate(3,290,286)"/>
+      <rect x="30" y="26" width="520" height="520" rx="8" ry="8" fill="none" stroke="#e0ded9" stroke-width="1" transform="rotate(3,290,286)"/>
+      <!-- Web pattern -->
+      <g transform="translate(34,30)">
+        <path fill="url(#kG)" d="M429.983,349.78V164.817l20.07-11.563l-7.824-13.581l-19.889,11.457L263.844,59.894V0H248.17v59.292L91.386,149.545l-20.265-11.984l-7.979,13.491l17.844,10.551v186.182l-50.714,29.216l7.824,13.581l51.055-29.413l159.019,91.539v22.72h15.673v-23.322l156.269-89.955l52.26,30.904l7.978-13.491L429.983,349.78z M96.66,170.872l39.706,23.481V256h15.673v-52.379l39.706,23.481v56.875L96.66,338.756V170.872z M248.169,434.622l-143.316-82.499l39.418-22.709l103.898,59.731V434.622z M248.17,371.066l-88.193-50.701l39.675-22.856l48.518,28.129V371.066z M248.17,307.521l-32.843-19.041l32.843-18.921V307.521z M207.419,274.947v-38.577l33.043,19.541L207.419,274.947z M248.17,242.262l-32.261-19.078l32.261-18.705V242.262z M248.17,186.361l-47.731,27.673l-39.033-23.083l86.764-50.036V186.361z M248.17,122.824l-102.254,58.969l-39.033-23.083L248.17,77.377V122.824z M263.844,141.519l43.591,25.138l7.83-13.577l-51.422-29.654V77.979l142.794,82.199l-94.8,54.615l-47.993-27.826V141.519z M358.929,205.751v102.01l-39.706-23.481v-55.654L358.929,205.751z M263.844,205.084l32.319,18.738l-32.319,18.619V205.084z M303.55,237.655v37.356l-31.998-18.922L303.55,237.655z M263.844,269.739l31.744,18.773l-31.744,18.405V269.739z M263.844,434.021V325.033l47.214-27.373l39.038,23.086l-42.628,24.597l7.833,13.575l50.283-29.014l39.032,23.082L263.844,434.021z M414.309,340.51l-39.706-23.481V196.721l39.706-22.875V340.51z"/>
+        <rect x="278.802" y="355.46" transform="matrix(0.8662 -0.4997 0.4997 0.8662 -142.4594 194.5572)" width="26.54" height="15.673" fill="url(#kG)"/>
+        <rect x="322.526" y="157.257" transform="matrix(0.4996 -0.8663 0.8663 0.4996 17.3172 371.681)" width="15.674" height="27.189" fill="url(#kG)"/>
+        <rect x="248.17" y="485.878" width="15.673" height="26.122" fill="url(#kG)"/>
+        <rect x="453.436" y="126.897" transform="matrix(0.8665 -0.4992 0.4992 0.8665 -4.9761 250.8619)" width="26.123" height="15.674" fill="url(#kG)"/>
+        <rect x="39.068" y="119.28" transform="matrix(0.509 -0.8608 0.8608 0.509 -90.8855 105.3563)" width="15.674" height="26.123" fill="url(#kG)"/>
+        <rect x="136.366" y="265.404" width="15.673" height="26.122" fill="url(#kG)"/>
       </g>
     </g>
-    <text x="150" y="28" fill="#8B6848" class="v2">creator of kronus</text>
+    <text x="148" y="28" fill="#8B6848" class="v2">creator of kronus</text>
   </g>
 
   <!-- 3: senior AI engineer -->
   <g clip-path="url(#c3)">
-    <text x="150" y="28" fill="#556B2F" class="v3">senior AI engineer</text>
+    <text x="148" y="28" fill="#556B2F" class="v3">senior AI engineer</text>
   </g>
 
   <!-- 4: building AI that runs your business -->
   <g clip-path="url(#c4)">
-    <text x="62" y="28" fill="#1B3A5C" class="v4">building AI that runs your business</text>
+    <text x="60" y="28" fill="#1B3A5C" class="v4">building AI that runs your business</text>
   </g>
 </svg>
