@@ -11,13 +11,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake graph
+      - name: Generate snake graph (light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: par1kahl
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=556B2F&color_dots=#8B6848,#1B3A5C,#556B2F,#a08060,#2a5a8c
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=556B2F&color_dots=#8B6848,#1B3A5C,#556B2F,#a08060,#2a5a8c
+          outputs: dist/github-contribution-grid-snake.svg
+          svg_out_s_color_dot_0: "#1B3A5C"
+          svg_out_s_color_dot_1: "#8B6848"
+          svg_out_s_color_dot_2: "#a08060"
+          svg_out_s_color_dot_3: "#556B2F"
+          svg_out_s_color_dot_4: "#7a9a4a"
+          svg_out_s_color_snake: "#556B2F"
+          svg_out_s_color_empty: "#ebedf0"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake graph (dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: par1kahl
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          svg_out_s_color_dot_0: "#1B3A5C"
+          svg_out_s_color_dot_1: "#8B6848"
+          svg_out_s_color_dot_2: "#a08060"
+          svg_out_s_color_dot_3: "#556B2F"
+          svg_out_s_color_dot_4: "#7a9a4a"
+          svg_out_s_color_snake: "#556B2F"
+          svg_out_s_color_empty: "#161b22"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
