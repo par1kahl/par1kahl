@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=par1kahl&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
 
-<img src="assets/phavella-logo.svg" width="28" height="28" /> &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B6848&center=true&vCenter=true&width=500&lines=founder+%40+phavella;creator+of+kronus;senior+AI+engineer;building+AI+that+runs+your+business)](https://git.io/typing-svg) &nbsp; <img src="assets/kronus-logo.svg" width="28" height="28" />
+<img src="assets/typing-banner.svg" alt="founder @ phavella | creator of kronus | senior AI engineer" width="600" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
