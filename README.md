@@ -35,7 +35,7 @@ Purdue CS grad, 6+ years shipping production AI, based remote. I care about AI t
 ### > Currently Building
 
 <details>
-<summary><b>Phavella</b> - AI-powered operating systems for businesses</summary>
+<summary><img src="assets/phavella-logo.svg" width="20" height="20" /> <b>Phavella</b> - AI-powered operating systems for businesses</summary>
 <br>
 
 > replacing fragmented SaaS tools with unified, autonomous platforms

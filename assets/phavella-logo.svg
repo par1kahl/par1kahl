@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="blobGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C3E6B"/>
+      <stop offset="30%" stop-color="#4A8A7A"/>
+      <stop offset="60%" stop-color="#9B7D55"/>
+      <stop offset="80%" stop-color="#4A8A7A"/>
+      <stop offset="100%" stop-color="#2C3E6B"/>
+    </linearGradient>
+  </defs>
+  <!-- Organic blob shape (static frame of phavella-blob CSS animation at 0%) -->
+  <!-- border-radius: 40% 60% 55% 45% / 55% 45% 60% 40% on a 512x512 square -->
+  <path d="
+    M 205 16
+    C 310 -2, 420 30, 476 130
+    C 510 220, 508 350, 450 430
+    C 390 502, 270 510, 170 476
+    C 70 440, 10 330, 16 225
+    C 22 120, 100 34, 205 16
+    Z
+  " fill="url(#blobGrad)"/>
+  <!-- P letterform (scaled from 32x32 to 512x512) -->
+  <line
+    x1="176" y1="48" x2="304" y2="464"
+    stroke="#F8F7F4" stroke-width="35" stroke-linecap="round" stroke-opacity="0.95"
+  />
+  <path
+    d="M 200 136 C 256 64, 416 112, 408 248 C 400 368, 272 408, 248 344"
+    stroke="#F8F7F4" stroke-width="35" stroke-linecap="round" stroke-opacity="0.95" fill="none"
+  />
+  <path
+    d="M 304 216 C 328 200, 368 232, 344 264 C 320 296, 280 264, 304 224 Z"
+    fill="#F8F7F4" fill-opacity="0.95"
+  />
+</svg>
