@@ -11,15 +11,17 @@
 
 </div>
 
-<p align="center">
-  <a href="#-about-me">About Me</a> ·
-  <a href="#-currently-building">Currently Building</a> ·
-  <a href="#-career-path">Career Path</a> ·
-  <a href="#-tech-stack">Tech Stack</a> ·
-  <a href="#-key-projects--impact">Key Projects</a> ·
-  <a href="#-stats">Stats</a> ·
-  <a href="#-lets-connect">Connect</a>
-</p>
+<div align="center">
+
+[![About Me](https://img.shields.io/badge/About_Me-1B3A5C?style=flat-square)](#-about-me)
+[![Currently Building](https://img.shields.io/badge/Currently_Building-8B6848?style=flat-square)](#-currently-building)
+[![Career Path](https://img.shields.io/badge/Career_Path-556B2F?style=flat-square)](#-career-path)
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-1B3A5C?style=flat-square)](#-tech-stack)
+[![Key Projects](https://img.shields.io/badge/Key_Projects-8B6848?style=flat-square)](#-key-projects--impact)
+[![Stats](https://img.shields.io/badge/Stats-556B2F?style=flat-square)](#-stats)
+[![Connect](https://img.shields.io/badge/Connect-1B3A5C?style=flat-square)](#-lets-connect)
+
+</div>
 
 ---
 
