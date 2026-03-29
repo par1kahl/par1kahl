@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=PARIK%20AHLAWAT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=par1kahl&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=founder+%40+phavella;creator+of+kronus;senior+AI+engineer;purdue+CS+'18;building+AI+that+runs+your+business)](https://git.io/typing-svg)
 
