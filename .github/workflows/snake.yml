@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: par1kahl
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=556B2F&color_dots=#ebedf0,#8B6848,#a08060,#556B2F,#1B3A5C
-            dist/github-contribution-grid-snake-dark.svg?color_snake=556B2F&color_dots=#161b22,#8B6848,#a08060,#556B2F,#1B3A5C
+            dist/github-contribution-grid-snake.svg?color_snake=#2d5016&color_dots=#ebedf0,#c4a882,#a0845c,#6b8e3c,#2c5282
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#8cc63f&color_dots=#1a1e2e,#c4a882,#a0845c,#6b8e3c,#4a7ab5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
