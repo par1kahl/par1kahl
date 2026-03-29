@@ -56,7 +56,7 @@ I partner directly with B2B clients, startups, and agencies to integrate these s
 </details>
 
 <details>
-<summary><b>Kronus</b> - personal AI agent orchestration framework</summary>
+<summary><img src="assets/kronus-logo.svg" width="20" height="20" /> <b>Kronus</b> - personal AI agent orchestration framework</summary>
 <br>
 
 > an extensible framework for building specialized agent teams
@@ -71,7 +71,7 @@ Built for developers who want AI tooling that fits into their actual workflow in
 ![Skills](https://img.shields.io/badge/19_Skills-1B3A5C?style=flat&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/9_MCP_Servers-556B2F?style=flat&logoColor=white)
 
-[github.com/par1k/claude-kronus](https://github.com/par1k/claude-kronus)
+[github.com/par1kahl/kronus](https://github.com/par1kahl/kronus)
 
 </details>
 
