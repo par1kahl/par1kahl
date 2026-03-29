@@ -2,23 +2,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=par1kahl&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
 
-<img src="assets/hero-typing.svg" alt="founder @ phavella | creator of kronus | senior AI engineer" width="600" />
+<img src="assets/hero-typing.svg" alt="founder @ phavella | creator of kronus | senior AI engineer" width="480" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 
-</div>
+<br>
 
-<div align="center">
-
-[![About Me](https://img.shields.io/badge/About_Me-1B3A5C?style=flat-square)](#-about-me)
-[![Currently Building](https://img.shields.io/badge/Currently_Building-8B6848?style=flat-square)](#-currently-building)
-[![Career Path](https://img.shields.io/badge/Career_Path-556B2F?style=flat-square)](#-career-path)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-1B3A5C?style=flat-square)](#-tech-stack)
-[![Key Projects](https://img.shields.io/badge/Key_Projects-8B6848?style=flat-square)](#-key-projects--impact)
-[![Stats](https://img.shields.io/badge/Stats-556B2F?style=flat-square)](#-stats)
-[![Connect](https://img.shields.io/badge/Connect-1B3A5C?style=flat-square)](#-lets-connect)
+[![About Me](https://img.shields.io/badge/About_Me-1B3A5C?style=flat-square)](#-about-me) &nbsp;|&nbsp; [![Currently Building](https://img.shields.io/badge/Currently_Building-8B6848?style=flat-square)](#-currently-building) &nbsp;|&nbsp; [![Career Path](https://img.shields.io/badge/Career_Path-556B2F?style=flat-square)](#-career-path) &nbsp;|&nbsp; [![Tech Stack](https://img.shields.io/badge/Tech_Stack-1B3A5C?style=flat-square)](#-tech-stack) &nbsp;|&nbsp; [![Key Projects](https://img.shields.io/badge/Key_Projects-8B6848?style=flat-square)](#-key-projects--impact) &nbsp;|&nbsp; [![Stats](https://img.shields.io/badge/Stats-556B2F?style=flat-square)](#-stats) &nbsp;|&nbsp; [![Connect](https://img.shields.io/badge/Connect-1B3A5C?style=flat-square)](#-lets-connect)
 
 </div>
 
