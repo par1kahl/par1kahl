@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-8B6848?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
 [![Email](https://img.shields.io/badge/Email-556B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=par1kahl&style=for-the-badge&color=1B3A5C)](https://github.com/par1kahl)
 
 </div>
 
