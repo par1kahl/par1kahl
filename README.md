@@ -8,6 +8,10 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 
+<marquee behavior="scroll" direction="left" scrollamount="4">
+<img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/phavella-logo.svg" width="18" height="18" /> founder @ phavella &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/kronus-logo.svg" width="18" height="18" /> creator of kronus
+</marquee>
+
 </div>
 
 <div align="center">
