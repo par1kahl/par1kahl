@@ -20,9 +20,11 @@
 
 ### > About Me
 
-I started out building smart contracts and blockchain tools. Somewhere along the way, AI agents got way more interesting and I never looked back. Now I build systems that run entire business functions on autopilot while founders focus on what actually matters.
+I build AI systems that run at 3am without paging anyone.
 
-6+ years shipping production AI, based remote. I care about AI that works at 3am without paging anyone. Currently building Phavella and hacking on Kronus.
+Started building software in college, went deep on distributed systems and backend infra, then AI agents got way more interesting and I never looked back. Now I design autonomous agent architectures and AI operating systems that run entire business functions on autopilot — so founders can focus on what actually matters.
+
+6+ years shipping production AI, based remote. Purdue CS '18. Currently building Phavella and hacking on Kronus.
 
 ---
 
@@ -50,22 +52,27 @@ I partner directly with B2B clients, startups, and agencies to integrate these s
 </details>
 
 <details>
-<summary><img src="assets/kronus-logo.svg" width="20" height="20" /> <b>Kronus</b> - personal AI agent orchestration framework</summary>
+<summary><img src="assets/kronus-logo.svg" width="20" height="20" /> <b>Kronus</b> - open-source agent orchestration framework</summary>
 <br>
 
-> an extensible framework for building specialized agent teams
+> Claude Code for everyone. Open source. Free forever.
 
 A hybrid agent + skill architecture that coordinates AI workflows through specialized agents and quick-fire skills. Agents handle complex multi-turn work (architecture planning, code review, security auditing, proposal writing), while skills handle focused single-command tasks (test generation, dependency scanning, content drafts). Connects to external systems through MCP server integrations for GitHub, Slack, Notion, Linear, and more.
 
+Full product suite: Core CLI, Daemon (Telegram routing + session management), Marketing website (Next.js 15 + Three.js), Documentation, AI Content Factory, and Demo Video Pipeline (Remotion).
+
 Built for developers who want AI tooling that fits into their actual workflow instead of replacing it.
 
-![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1B3A5C?style=flat&logoColor=white)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-556B2F?style=flat&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-8B6848?style=flat&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-1B3A5C?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-556B2F?style=flat&logoColor=white)
 ![Agents](https://img.shields.io/badge/10_Agents-8B6848?style=flat&logoColor=white)
 ![Skills](https://img.shields.io/badge/19_Skills-1B3A5C?style=flat&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/9_MCP_Servers-556B2F?style=flat&logoColor=white)
 
-[github.com/par1kahl/kronus](https://github.com/par1kahl/kronus)
+[kronus.tech](https://kronus.tech) &nbsp;|&nbsp; [github.com/kronus-tech/kronus](https://github.com/kronus-tech/kronus)
 
 </details>
 
@@ -74,11 +81,11 @@ Built for developers who want AI tooling that fits into their actual workflow in
 ### > Career Path
 
 <table>
-<tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Founder / AI Architect</td><td>Building autonomous AI operating systems for businesses.</td></tr>
+<tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Founder / AI Architect</td><td>Building autonomous AI operating systems for businesses. Multi-model orchestration, B2B partnerships.</td></tr>
 <tr><td><b>2025</b></td><td><b>CraftifAI</b></td><td>PM + Senior AI Engineer</td><td>AI agent workflows for embedded and edge platforms. Model orchestration meets real hardware constraints.</td></tr>
 <tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Boosted LLM accuracy 15-25% on SWE-Bench, BFCL, TAU.</td></tr>
-<tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI systems for smart contract auditing and testing. Won grants from Solana and Polkadot.</td></tr>
-<tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Freelance Engineer</td><td>Backend systems, APIs, open-source AI tooling. 20+ client solutions delivered.</td></tr>
+<tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI-powered code analysis and developer tooling. Reduced developer effort 60%. Secured two foundation grants.</td></tr>
+<tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Freelance Engineer</td><td>Backend systems, APIs, AI tooling. 20+ client solutions. Collaborated with Google and major tech companies.</td></tr>
 </table>
 
 ---
@@ -103,6 +110,8 @@ Built for developers who want AI tooling that fits into their actual workflow in
 ![Anthropic](https://img.shields.io/badge/Anthropic-1B3A5C?style=flat&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-556B2F?style=flat&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-8B6848?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1B3A5C?style=flat&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-556B2F?style=flat&logoColor=white)
 
 **vector & graph databases**
 
@@ -117,6 +126,7 @@ Built for developers who want AI tooling that fits into their actual workflow in
 ![Temporal](https://img.shields.io/badge/Temporal-8B6848?style=flat&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1B3A5C?style=flat&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-556B2F?style=flat&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-8B6848?style=flat&logoColor=white)
 
 ---
 
@@ -170,14 +180,26 @@ Led design and deployment of reasoning models that boosted LLM output accuracy a
 </details>
 
 <details>
-<summary><b>Smart Contract AI Audit System</b> · won Solana + Polkadot grants</summary>
+<summary><b>AI-Powered Code Analysis System</b> · 60% reduction in developer effort</summary>
 <br>
 
-Created AI systems to generate, test, and audit smart contracts via natural language + symbolic reasoning. Integrated vector and graph databases to model contract relationships, vulnerabilities, and code similarity. Reduced developer effort by ~60%.
+Created AI systems to analyze, test, and audit codebases via natural language + symbolic reasoning. Integrated vector and graph databases to model code relationships, patterns, and vulnerability detection. Secured two foundation grants for the research.
 
-![Solidity](https://img.shields.io/badge/Solidity-1B3A5C?style=flat&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-556B2F?style=flat&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-8B6848?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-556B2F?style=flat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-8B6848?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1B3A5C?style=flat&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Tracer</b> · full-stack consulting project</summary>
+<br>
+
+Full-stack web platform — designed and built the frontend architecture, integrated with backend APIs, and delivered a production-ready application as a consulting engagement.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1B3A5C?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-556B2F?style=flat&logoColor=white)
 
 </details>
 
@@ -203,7 +225,7 @@ Created AI systems to generate, test, and audit smart contracts via natural lang
 
 ### > Let's Connect
 
-Building something with AI agents? Want to collaborate? Just want to talk about why most AI demos fall apart in production?
+Building with AI agents? Scaling an AI product? Need an architecture review before you commit?
 
 <div align="center">
 
