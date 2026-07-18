@@ -1,78 +1,83 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B6848,50:1B3A5C,100:556B2F&height=220&section=header&text=par1kahl&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agentic%20AI%20maestro&descSize=18&descAlignY=55&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b1410,50:c77a12,100:f5a623&height=210&section=header&text=par1kahl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%26%20Consultant&descSize=18&descAlignY=58&descColor=ffffff)
 
-<img src="assets/hero-typing.svg" alt="founder @ phavella | creator of kronus | senior AI engineer" width="480" />
-
-<br><br><br>
+[![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=C77A12&center=true&vCenter=true&width=560&lines=Production+AI+systems+that+hold+up;AI+agents+%26+MCP+server+fleets;RAG+%26+knowledge+graphs;CPO+%40+ProspectVine)](https://par1kahl.kronus.tech)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-c77a12?style=for-the-badge&logoColor=white)](https://par1kahl.kronus.tech)
 
-<br>
-
-[![About Me](https://img.shields.io/badge/About_Me-1B3A5C?style=flat-square)](#-about-me) &nbsp;|&nbsp; [![Currently Building](https://img.shields.io/badge/Currently_Building-8B6848?style=flat-square)](#-currently-building) &nbsp;|&nbsp; [![Career Path](https://img.shields.io/badge/Career_Path-556B2F?style=flat-square)](#-career-path) &nbsp;|&nbsp; [![Tech Stack](https://img.shields.io/badge/Tech_Stack-1B3A5C?style=flat-square)](#-tech-stack) &nbsp;|&nbsp; [![Key Projects](https://img.shields.io/badge/Key_Projects-8B6848?style=flat-square)](#-key-projects--impact) &nbsp;|&nbsp; [![Stats](https://img.shields.io/badge/Stats-556B2F?style=flat-square)](#-stats) &nbsp;|&nbsp; [![Connect](https://img.shields.io/badge/Connect-1B3A5C?style=flat-square)](#-lets-connect)
+[![About](https://img.shields.io/badge/About-1b1410?style=flat-square)](#-about) &nbsp;|&nbsp; [![Now](https://img.shields.io/badge/Now-c77a12?style=flat-square)](#-currently-building) &nbsp;|&nbsp; [![Career](https://img.shields.io/badge/Career-a67a1e?style=flat-square)](#-career-path) &nbsp;|&nbsp; [![Stack](https://img.shields.io/badge/Tech_Stack-1b1410?style=flat-square)](#-tech-stack) &nbsp;|&nbsp; [![Projects](https://img.shields.io/badge/Projects-c77a12?style=flat-square)](#-key-projects--impact) &nbsp;|&nbsp; [![Connect](https://img.shields.io/badge/Connect-a67a1e?style=flat-square)](#-lets-connect)
 
 </div>
 
 ---
 
-### > About Me
+### > About
 
-I build AI systems that run at 3am without paging anyone.
+I build AI systems that run in production, not just demos.
 
-Started building software in college, went deep on distributed systems and backend infra, then AI agents got way more interesting and I never looked back. Now I design autonomous agent architectures and AI operating systems that run entire business functions on autopilot — so founders can focus on what actually matters.
+For 7+ years I have designed, shipped, and advised on agentic systems and MCP server fleets, retrieval and knowledge-graph pipelines, LLM evaluation, and automation across the full stack. I work end to end, from architecture through the reliability and cost engineering that makes AI dependable, and I advise teams making the same decisions.
 
-6+ years shipping production AI, based remote. Purdue CS '18. Currently building Phavella and hacking on Kronus.
+A live portfolio of **64 projects, 1,094 automations, and 295 tools across 16 industries** is searchable as a knowledge graph at **[par1kahl.kronus.tech](https://par1kahl.kronus.tech)**. Testing-first, cost-conscious, reliable. Systems that hold up. Purdue CS, 2018.
 
 ---
 
 ### > Currently Building
 
 <details>
-<summary><img src="assets/phavella-logo.svg" width="20" height="20" /> <b>Phavella</b> - AI-powered operating systems for businesses</summary>
+<summary><b>ProspectVine</b> · Chief Product Officer (London)</summary>
 <br>
 
-> replacing fragmented SaaS tools with unified, autonomous platforms
+Leading product for a MarTech and lead-intelligence company. Built the lead-capture platform end to end (Django and DRF backend, Next.js capture and admin), designed a knowledge-graph analytics engine that unifies visitor activity, campaigns, and lead attribution, and shipped a website v2 with an AI-assisted CMS. A self-serve landing-page system took page deployment from about 1.5 hours down to minutes.
 
-Each operating system targets a core business function and runs continuously in the background. Multi-model orchestration dynamically routes tasks to the optimal model to maximize accuracy while minimizing cost. Fault-tolerant architecture with strict error handling, exponential backoff, and state-machine tracking ensures 99.9% reliability for mission-critical processes.
+![Django](https://img.shields.io/badge/Django-1b1410?style=flat&logoColor=f5a623)
+![Next.js](https://img.shields.io/badge/Next.js-a67a1e?style=flat&logoColor=white)
+![Apache AGE](https://img.shields.io/badge/Apache_AGE-c77a12?style=flat&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-c77a12?style=flat&logoColor=white)
 
-I partner directly with B2B clients, startups, and agencies to integrate these systems into their existing tech stacks, ensuring seamless API communication and measurable ROI.
+</details>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-556B2F?style=flat&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1B3A5C?style=flat&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B6848?style=flat&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-556B2F?style=flat&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-1B3A5C?style=flat&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-8B6848?style=flat&logoColor=white)
+<details>
+<summary><b>Phavella</b> · Partner · an AI solutions studio</summary>
+<br>
+
+An AI solutions studio run by expert engineers, building production AI systems for businesses across media, sales, finance, e-commerce, and operations. Multi-model orchestration across Claude, Gemini, and OpenAI, fault-tolerant pipelines, RAG knowledge bases, and live client demos.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-a67a1e?style=flat&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1b1410?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-c77a12?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-c77a12?style=flat&logoColor=white)
 
 [phavella.com](https://phavella.com)
 
 </details>
 
 <details>
-<summary><img src="assets/kronus-logo.svg" width="20" height="20" /> <b>Kronus</b> - open-source agent orchestration framework</summary>
+<summary><b>Kronus</b> · open-source agent orchestration framework</summary>
 <br>
 
-> Claude Code for everyone. Open source. Free forever.
+A hybrid agent + skill architecture across 210+ commits: specialized agents for complex multi-turn work, quick skills for single-command tasks, MCP server integrations, swarm mode for parallel multi-agent teams, a Telegram control plane, a dashboard, and a knowledge-graph brain.
 
-A hybrid agent + skill architecture that coordinates AI workflows through specialized agents and quick-fire skills. Agents handle complex multi-turn work (architecture planning, code review, security auditing, proposal writing), while skills handle focused single-command tasks (test generation, dependency scanning, content drafts). Connects to external systems through MCP server integrations for GitHub, Slack, Notion, Linear, and more.
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1410?style=flat&logoColor=f5a623)
+![Next.js](https://img.shields.io/badge/Next.js-a67a1e?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-c77a12?style=flat&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-1b1410?style=flat&logoColor=f5a623)
 
-Full product suite: Core CLI, Daemon (Telegram routing + session management), Marketing website (Next.js 15 + Three.js), Documentation, AI Content Factory, and Demo Video Pipeline (Remotion).
+</details>
 
-Built for developers who want AI tooling that fits into their actual workflow instead of replacing it.
+<details>
+<summary><b>a Dutch marketing agency</b> · Senior AI Consultant</summary>
+<br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1B3A5C?style=flat&logoColor=white)
-![Next.js 15](https://img.shields.io/badge/Next.js_15-556B2F?style=flat&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-8B6848?style=flat&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion-1B3A5C?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-556B2F?style=flat&logoColor=white)
-![Agents](https://img.shields.io/badge/10_Agents-8B6848?style=flat&logoColor=white)
-![Skills](https://img.shields.io/badge/19_Skills-1B3A5C?style=flat&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/9_MCP_Servers-556B2F?style=flat&logoColor=white)
+Building a multi-tenant AI marketing-analyst agent that answers each client's marketing-data questions in Slack and Teams, fed by a fleet of 6+ per-channel MCP servers (Meta, Google, TikTok, LinkedIn Ads, WooCommerce, GA4). Migrated a legacy automation stack to a unified platform.
 
-[kronus.tech](https://kronus.tech) &nbsp;|&nbsp; [github.com/kronus-tech/kronus](https://github.com/kronus-tech/kronus)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1410?style=flat&logoColor=f5a623)
+![Mastra](https://img.shields.io/badge/Mastra-c77a12?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-a67a1e?style=flat&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-c77a12?style=flat&logoColor=white)
 
 </details>
 
@@ -81,11 +86,13 @@ Built for developers who want AI tooling that fits into their actual workflow in
 ### > Career Path
 
 <table>
-<tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Founder / AI Architect</td><td>Building autonomous AI operating systems for businesses. Multi-model orchestration, B2B partnerships.</td></tr>
-<tr><td><b>2025</b></td><td><b>CraftifAI</b></td><td>PM + Senior AI Engineer</td><td>AI agent workflows for embedded and edge platforms. Model orchestration meets real hardware constraints.</td></tr>
-<tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Boosted LLM accuracy 15-25% on SWE-Bench, BFCL, TAU.</td></tr>
-<tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI-powered code analysis and developer tooling. Reduced developer effort 60%. Secured two foundation grants.</td></tr>
-<tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Freelance Engineer</td><td>Backend systems, APIs, AI tooling. 20+ client solutions. Collaborated with Google and major tech companies.</td></tr>
+<tr><td><b>2026+</b></td><td><b>ProspectVine</b></td><td>Chief Product Officer</td><td>MarTech and lead-intelligence. Lead-capture platform, knowledge-graph analytics, AI CMS. Deployment 1.5h to minutes.</td></tr>
+<tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Partner</td><td>AI solutions studio building production AI systems for businesses. Multi-model orchestration, live client work.</td></tr>
+<tr><td><b>2025+</b></td><td><b>NDA (Amsterdam)</b></td><td>Senior AI Consultant</td><td>Multi-tenant AI marketing agent plus a fleet of per-channel MCP servers for a Dutch marketing agency.</td></tr>
+<tr><td><b>2025</b></td><td><b>CraftifAI</b></td><td>PM + Senior AI Engineer</td><td>AI agents for embedded and edge platforms. On-device vs cloud inference orchestration.</td></tr>
+<tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Improved LLM accuracy 15 to 25 percent on SWE-Bench, BFCL, TAU.</td></tr>
+<tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI code analysis and developer tooling. Reduced developer effort 60 percent. Two foundation grants.</td></tr>
+<tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Independent AI Engineer & Consultant</td><td>AI systems, agents, backend, APIs. 20+ client solutions across startups and enterprises.</td></tr>
 </table>
 
 ---
@@ -96,110 +103,112 @@ Built for developers who want AI tooling that fits into their actual workflow in
 
 **core stack**
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,fastapi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,django&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,gcp,aws,githubactions&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,redis,docker,gcp,aws,githubactions,tailwind&theme=light)](https://skillicons.dev)
 
 </div>
 
-**AI & agent tools**
+**AI & agents**
 
-![LangChain](https://img.shields.io/badge/LangChain-1B3A5C?style=flat&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-556B2F?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-8B6848?style=flat&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-1B3A5C?style=flat&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-556B2F?style=flat&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-8B6848?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1B3A5C?style=flat&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-556B2F?style=flat&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-c77a12?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-a67a1e?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-c77a12?style=flat&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-a67a1e?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-c77a12?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-a67a1e?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-c77a12?style=flat&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-a67a1e?style=flat&logoColor=white)
 
-**vector & graph databases**
+**RAG, vector & graph**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-1B3A5C?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-556B2F?style=flat&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-8B6848?style=flat&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-1B3A5C?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-c77a12?style=flat&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-a67a1e?style=flat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-c77a12?style=flat&logoColor=white)
+![Apache AGE](https://img.shields.io/badge/Apache_AGE-a67a1e?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-c77a12?style=flat&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-a67a1e?style=flat&logoColor=white)
 
 **automation & infra**
 
-![n8n](https://img.shields.io/badge/n8n-556B2F?style=flat&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-8B6848?style=flat&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1B3A5C?style=flat&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-556B2F?style=flat&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion-8B6848?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-c77a12?style=flat&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-a67a1e?style=flat&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-c77a12?style=flat&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-a67a1e?style=flat&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-c77a12?style=flat&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-a67a1e?style=flat&logoColor=white)
 
 ---
 
 ### > Key Projects & Impact
 
 <details>
-<summary><b>Voice Agent System</b> · 90% user satisfaction in beta</summary>
+<summary><b>Expertise Knowledge Graph</b> · a live, searchable portfolio</summary>
 <br>
 
-Built an end-to-end voice agent that takes spoken commands, maps them to tool-calling workflows, and executes across apps (task management, code scaffolding, business operations). Continuous feedback loop for prompt improvement.
+A knowledge graph of my whole portfolio (projects, tools, automations) with a RAG match endpoint that maps a client requirement to relevant past work. Force-directed graph UI over a FastAPI, SQLite, and Qdrant backend.
 
-![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-556B2F?style=flat&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-8B6848?style=flat&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1b1410?style=flat&logoColor=f5a623)
+![FastAPI](https://img.shields.io/badge/FastAPI-a67a1e?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-c77a12?style=flat&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Multi-Agent Orchestration Architecture</b> · production coordination system</summary>
+<summary><b>Kronus</b> · 210+ commits · agent orchestration framework</summary>
 <br>
 
-Designed the architecture for multi-agent coordination with fallback strategies, tool chain orchestration, and checkpointing for error recovery. Includes monitoring for bias, hallucination, and accuracy drift with alerting and periodic benchmark evaluation.
+Open-source hybrid agent + skill framework: agents, skills, MCP integrations, swarm mode, a Telegram control plane, and a knowledge-graph brain.
 
-![LangChain](https://img.shields.io/badge/LangChain-1B3A5C?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-556B2F?style=flat&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-8B6848?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1410?style=flat&logoColor=f5a623)
+![MCP](https://img.shields.io/badge/MCP-a67a1e?style=flat&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>AI Performance Dashboard</b> · real-time agent monitoring</summary>
+<summary><b>CommsOS</b> · RAG over 475+ meetings · lookup ~80% faster</summary>
 <br>
 
-Real-time dashboard tracking tool usage, error rates, and latency across AI agents. Built with Supabase, vector DB, and graph visualizations. Enabled faster debugging and system reliability improvements across the team.
+RAG meeting intelligence: ingests transcripts from Read.ai, Zoom, and Google Calendar, embeds in Qdrant, and exposes AI search, ask, and chat with intent detection, action-item tracking to Slack, and people profiles.
 
-![Supabase](https://img.shields.io/badge/Supabase-1B3A5C?style=flat&logoColor=white)
-![React](https://img.shields.io/badge/React-556B2F?style=flat&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-8B6848?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1b1410?style=flat&logoColor=f5a623)
+![Qdrant](https://img.shields.io/badge/Qdrant-a67a1e?style=flat&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-c77a12?style=flat&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Reasoning Model Optimization</b> · +15-25% benchmark improvement</summary>
+<summary><b>metaAds-mcp</b> · 34-tool production MCP server</summary>
 <br>
 
-Led design and deployment of reasoning models that boosted LLM output accuracy across SWE-Bench, BFCL, TAU, and LiveCodeBench. Developed Small Reasoning Models (SRMs) as lightweight verifiers and explainers in inference pipelines. Reduced agent response latency by ~30% through caching and batched vector searches.
+Production MCP server exposing 34 tools: 26 marketing tools (campaign insights, demographics, budget, scheduling) and 8 competitor-intelligence tools (active ads, ad history, creative texts, spend, reach). PostgreSQL-backed with Apify ingestion.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1B3A5C?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-556B2F?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1410?style=flat&logoColor=f5a623)
+![MCP](https://img.shields.io/badge/MCP-a67a1e?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c77a12?style=flat&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>AI-Powered Code Analysis System</b> · 60% reduction in developer effort</summary>
+<summary><b>Reasoning Model Optimization</b> · +15 to 25% on benchmarks</summary>
 <br>
 
-Created AI systems to analyze, test, and audit codebases via natural language + symbolic reasoning. Integrated vector and graph databases to model code relationships, patterns, and vulnerability detection. Secured two foundation grants for the research.
+Reasoning models that improved LLM accuracy 15 to 25 percent across SWE-Bench, BFCL, TAU, and LiveCodeBench. Small Reasoning Models (SRMs) as inference-time verifiers; latency reduced roughly 30 percent via caching and batched vector search.
 
-![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-556B2F?style=flat&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-8B6848?style=flat&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1B3A5C?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1b1410?style=flat&logoColor=f5a623)
+![PyTorch](https://img.shields.io/badge/PyTorch-a67a1e?style=flat&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Tracer</b> · full-stack consulting project</summary>
+<summary><b>AI Code Analysis</b> · 60% less developer effort · two grants</summary>
 <br>
 
-Full-stack web platform — designed and built the frontend architecture, integrated with backend APIs, and delivered a production-ready application as a consulting engagement.
+AI systems for automated code analysis combining natural language with symbolic reasoning; vector and graph databases modeling code relationships and vulnerability patterns.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1B3A5C?style=flat&logoColor=white)
-![React](https://img.shields.io/badge/React-556B2F?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1b1410?style=flat&logoColor=f5a623)
+![Neo4j](https://img.shields.io/badge/Neo4j-a67a1e?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-c77a12?style=flat&logoColor=white)
 
 </details>
 
@@ -209,15 +218,8 @@ Full-stack web platform — designed and built the frontend architecture, integr
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=par1kahl&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=par1kahl&theme=github-light&hide_border=true&area=true&color=1B3A5C&line=556B2F&point=8B6848)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/par1kahl/par1kahl/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/par1kahl/par1kahl/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/par1kahl/par1kahl/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+![Parik's GitHub stats](https://github-readme-stats.vercel.app/api?username=par1kahl&show_icons=true&hide_border=true&title_color=c77a12&icon_color=f5a623&text_color=5f5548&bg_color=fbf7f0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=par1kahl&layout=compact&hide_border=true&title_color=c77a12&text_color=5f5548&bg_color=fbf7f0)
 
 </div>
 
@@ -225,14 +227,12 @@ Full-stack web platform — designed and built the frontend architecture, integr
 
 ### > Let's Connect
 
-Building with AI agents? Scaling an AI product? Need an architecture review before you commit?
-
 <div align="center">
 
+Building something with AI, or hiring for it? I take on senior AI engineering, architecture, and consulting work.
+
+[![Portfolio](https://img.shields.io/badge/par1kahl.kronus.tech-c77a12?style=for-the-badge&logoColor=white)](https://par1kahl.kronus.tech)
+[![Email](https://img.shields.io/badge/pa.parikahlawat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.parikahlawat@gmail.com)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,50:1B3A5C,100:8B6848&height=120&section=footer)
