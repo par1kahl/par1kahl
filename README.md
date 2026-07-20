@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b1410,50:c77a12,100:f5a623&height=210&section=header&text=par1kahl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%26%20Consultant&descSize=18&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b1410,50:c77a12,100:f5a623&height=210&section=header&text=par1kahl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%26%20Consultant&descSize=18&descAlignY=58&descColor=ffffff&v=2)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=C77A12&center=true&vCenter=true&width=560&lines=Production+AI+systems+that+hold+up;AI+agents+%26+MCP+server+fleets;RAG+%26+knowledge+graphs;CPO+%40+ProspectVine)](https://par1kahl.kronus.tech)
+[![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=C77A12&center=true&vCenter=true&width=560&lines=Production+AI+systems+that+hold+up;AI+agents+%26+MCP+server+fleets;RAG+%26+knowledge+graphs;CPO+%40+ProspectVine&v=2)](https://par1kahl.kronus.tech)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/par_ahl)
@@ -236,3 +236,5 @@ Building something with AI, or hiring for it? I take on senior AI engineering, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parik-ahlawat)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,50:c77a12,100:1b1410&height=120&section=footer&v=2)
