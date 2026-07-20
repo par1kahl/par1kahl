@@ -214,12 +214,16 @@ AI systems for automated code analysis combining natural language with symbolic 
 
 ---
 
-### > Stats
+### > By the Numbers
 
 <div align="center">
 
-![Parik's GitHub stats](https://github-readme-stats.vercel.app/api?username=par1kahl&show_icons=true&hide_border=true&title_color=c77a12&icon_color=f5a623&text_color=5f5548&bg_color=fbf7f0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=par1kahl&layout=compact&hide_border=true&title_color=c77a12&text_color=5f5548&bg_color=fbf7f0)
+![Projects](https://img.shields.io/badge/Projects-64-c77a12?style=for-the-badge)
+![Automations](https://img.shields.io/badge/Automations-1%2C094-a67a1e?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-295-c77a12?style=for-the-badge)
+![Industries](https://img.shields.io/badge/Industries-16-a67a1e?style=for-the-badge)
+
+<sub>A live, searchable knowledge graph of every project, tool, and automation: <a href="https://par1kahl.kronus.tech">par1kahl.kronus.tech</a></sub>
 
 </div>
 
