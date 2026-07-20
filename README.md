@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b1410,50:c77a12,100:f5a623&height=210&section=header&text=par1kahl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%26%20Consultant&descSize=18&descAlignY=58&descColor=ffffff&v=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b1410,50:c77a12,100:f5a623&height=210&section=header&text=par1kahl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20and%20Consultant&descSize=18&descAlignY=58&descColor=ffffff&v=3)
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=C77A12&center=true&vCenter=true&width=560&lines=Production+AI+systems+that+hold+up;AI+agents+%26+MCP+server+fleets;RAG+%26+knowledge+graphs;CPO+%40+ProspectVine&v=2)](https://par1kahl.kronus.tech)
 
