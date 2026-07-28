@@ -90,7 +90,7 @@ Building a multi-tenant AI marketing-analyst agent that answers each client's ma
 <tr><td><b>2026+</b></td><td><b>Phavella</b></td><td>Partner</td><td>AI solutions studio building production AI systems for businesses. Multi-model orchestration, live client work.</td></tr>
 <tr><td><b>2025+</b></td><td><b>NDA (Amsterdam)</b></td><td>Senior AI Consultant</td><td>Multi-tenant AI marketing agent plus a fleet of per-channel MCP servers for a Dutch marketing agency.</td></tr>
 <tr><td><b>2025</b></td><td><b>CraftifAI</b></td><td>PM + Senior AI Engineer</td><td>AI agents for embedded and edge platforms. On-device vs cloud inference orchestration.</td></tr>
-<tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and benchmark optimization. Improved LLM accuracy 15 to 25 percent on SWE-Bench, BFCL, TAU.</td></tr>
+<tr><td><b>2025</b></td><td><b>CoreThink AI</b></td><td>Founding Senior AI Engineer</td><td>Reasoning models and evaluation infrastructure across Gorilla BFCL, tau-bench, and LiveBench. Cut agent latency ~30 percent.</td></tr>
 <tr><td><b>2023</b></td><td><b>AccelChain</b></td><td>AI Engineer / Researcher</td><td>AI code analysis and developer tooling. Reduced developer effort 60 percent. Two foundation grants.</td></tr>
 <tr><td><b>2019</b></td><td><b>Sidechain Labs</b></td><td>Independent AI Engineer & Consultant</td><td>AI systems, agents, backend, APIs. 20+ client solutions across startups and enterprises.</td></tr>
 </table>
@@ -166,7 +166,7 @@ Open-source hybrid agent + skill framework: agents, skills, MCP integrations, sw
 </details>
 
 <details>
-<summary><b>CommsOS</b> · RAG over 475+ meetings · lookup ~80% faster</summary>
+<summary><b>CommsOS</b> · RAG over a 475+ meeting corpus · recency-weighted retrieval</summary>
 <br>
 
 RAG meeting intelligence: ingests transcripts from Read.ai, Zoom, and Google Calendar, embeds in Qdrant, and exposes AI search, ask, and chat with intent detection, action-item tracking to Slack, and people profiles.
@@ -190,10 +190,10 @@ Production MCP server exposing 34 tools: 26 marketing tools (campaign insights, 
 </details>
 
 <details>
-<summary><b>Reasoning Model Optimization</b> · +15 to 25% on benchmarks</summary>
+<summary><b>Reasoning Model Optimization</b> · ~30% lower agent latency</summary>
 <br>
 
-Reasoning models that improved LLM accuracy 15 to 25 percent across SWE-Bench, BFCL, TAU, and LiveCodeBench. Small Reasoning Models (SRMs) as inference-time verifiers; latency reduced roughly 30 percent via caching and batched vector search.
+Built the unified evaluation framework across Gorilla BFCL, tau-bench, and LiveBench, plus a 4-layer verifier catching hallucinations, logical inconsistencies, and invalid tool usage. Small Reasoning Models (SRMs) as inference-time verifiers; latency reduced roughly 30 percent via caching and batched vector search.
 
 ![Python](https://img.shields.io/badge/Python-1b1410?style=flat&logoColor=f5a623)
 ![PyTorch](https://img.shields.io/badge/PyTorch-a67a1e?style=flat&logoColor=white)
